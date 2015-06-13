@@ -1,0 +1,6 @@
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第04講 物件導向\HW\HW4_1\HW4_1\bin\Debug\HW4_1.exe.config
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第04講 物件導向\HW\HW4_1\HW4_1\bin\Debug\HW4_1.exe
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第04講 物件導向\HW\HW4_1\HW4_1\bin\Debug\HW4_1.pdb
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第04講 物件導向\HW\HW4_1\HW4_1\obj\Debug\HW4_1.csprojResolveAssemblyReference.cache
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第04講 物件導向\HW\HW4_1\HW4_1\obj\Debug\HW4_1.exe
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第04講 物件導向\HW\HW4_1\HW4_1\obj\Debug\HW4_1.pdb

@@ -1,0 +1,9 @@
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第03講 程式的基本語法 (2)\HW\HW2\HW1\bin\Debug\HW1.exe.config
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第03講 程式的基本語法 (2)\HW\HW2\HW1\bin\Debug\HW1.exe
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第03講 程式的基本語法 (2)\HW\HW2\HW1\bin\Debug\HW1.pdb
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第03講 程式的基本語法 (2)\HW\HW2\HW1\obj\Debug\HW1.csprojResolveAssemblyReference.cache
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第03講 程式的基本語法 (2)\HW\HW2\HW1\obj\Debug\HW1.exe
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第03講 程式的基本語法 (2)\HW\HW2\HW1\obj\Debug\HW1.pdb
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第03講 程式的基本語法 (2)\HW\HW3_1\HW1\bin\Debug\HW1.exe.config
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第03講 程式的基本語法 (2)\HW\HW3_1\HW1\obj\Debug\HW1.exe
+C:\Users\yunwang\Desktop\Technical Related\C語言學習\C#\[CS252] 第03講 程式的基本語法 (2)\HW\HW3_1\HW1\obj\Debug\HW1.pdb
